@@ -1,1 +1,1 @@
-##Internet_magazin
+Internet_magazin
